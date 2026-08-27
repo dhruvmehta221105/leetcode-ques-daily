@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search

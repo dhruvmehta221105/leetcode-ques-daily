@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0078-subsets) |
 | [1288-remove-covered-intervals](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

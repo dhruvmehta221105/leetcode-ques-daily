@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0283-move-zeroes) |
@@ -98,5 +99,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

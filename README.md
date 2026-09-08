@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0078-subsets) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1288-remove-covered-intervals) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

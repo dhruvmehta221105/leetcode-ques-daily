@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1301-number-of-paths-with-max-score) |

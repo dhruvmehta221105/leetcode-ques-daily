@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0078-subsets) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/2812-find-the-safest-path-in-a-grid) |

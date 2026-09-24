@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0078-subsets) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0055-jump-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |

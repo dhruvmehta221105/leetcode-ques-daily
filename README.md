@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1652-defuse-the-bomb](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0713-subarray-product-less-than-k) |
 | [1288-remove-covered-intervals](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1301-number-of-paths-with-max-score) |
+| [1652-defuse-the-bomb](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/1652-defuse-the-bomb) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/2812-find-the-safest-path-in-a-grid) |

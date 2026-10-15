@@ -137,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0713-subarray-product-less-than-k) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

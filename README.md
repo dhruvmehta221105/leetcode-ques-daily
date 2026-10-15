@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0002-add-two-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
@@ -140,9 +141,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvmehta221105/leetcode-ques-daily/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
